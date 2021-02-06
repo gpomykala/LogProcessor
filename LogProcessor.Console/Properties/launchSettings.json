@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LogProcessor.Console": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Users\\jjack\\src\\testInput.txt\""
+    }
+  }
+}
